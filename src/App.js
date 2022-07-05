@@ -3,7 +3,7 @@ import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
 
-const APP_KEY = '62d5904a96356d22994c12327163e330';
+const APP_KEY = '956c327b0d13dc5c69d3ffbfe809c1ac';
 
 class App extends React.Component {
   state = {
